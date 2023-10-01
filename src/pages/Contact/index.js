@@ -1,4 +1,4 @@
-// Homepage HTML
+// Contact Page HTML
 import React from "react";
 import ContactForm from "../../components/ContactForm";
 import './contact.css';

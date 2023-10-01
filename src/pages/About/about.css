@@ -2,16 +2,37 @@
     margin-top: 50px;
 }
 
-.prof-container {
-    background-color: white;
-    border-radius: 15px 0 0 15px;
-}
-
-.about-text {
-    border-radius: 0 15px 15px 0;
-}
-
 .prof-img {
-    object-fit: cover;
-    object-position: 0 25%;
+    height: 300px;
+    width: 1200px;
+    object-position: 0 22%;
+    border-radius: 200px;
+    margin: 10px 0 10px 10px;
+}
+
+.course-badge {
+    height: 120px;
+    width: 120px;
+}
+
+.aboutColor {
+    background-color: #a2c5ac;
+}
+
+.cert-container {
+    margin-top: 70px;
+    margin-bottom: 50px;
+    position: relative;
+}
+
+.cert {
+    border: 5px solid black;
+}
+
+.cert-text {
+    position: absolute;
+    top: -70px;
+    left: 100;
+    font-size: 3rem;
+    font-weight: bold;
 }

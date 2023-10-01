@@ -1,0 +1,9 @@
+.footer-container {
+    background-color: #a2c5ac;
+    height: 10vh;
+    border-top: 5px solid black;
+}
+
+.social-icon {
+    margin: 0 10px 0 10px;
+}

@@ -1,4 +1,8 @@
 .portfolioNav {
     border-bottom: 5px solid black;
+    background-color: #a2c5ac;
+}
 
+.navColor {
+    background-color: #a2c5ac;
 }

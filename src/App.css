@@ -1,7 +1,17 @@
 :root {
-  --main-bg-color: #9EB3C2;
+  --main-bg-color: white;
 }
 
 body {
-  background-color: #9EB3C2;
+  background-color: var(--main-bg-color);
+}
+
+.page-container {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.content-wrap {
+  flex: 1;
 }
