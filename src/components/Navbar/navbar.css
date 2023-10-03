@@ -6,3 +6,8 @@
 .navColor {
     background-color: #a2c5ac;
 }
+
+.nav-container {
+    position: absolute;
+    left: 47rem;
+}
