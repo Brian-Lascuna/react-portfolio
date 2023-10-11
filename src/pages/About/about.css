@@ -3,8 +3,8 @@
 }
 
 .prof-img {
-    height: 300px;
-    width: 1200px;
+    height: 20rem;
+    width: 80rem;
     object-position: 0 22%;
     border-radius: 200px;
     margin: 10px 0 10px 10px;
@@ -35,4 +35,34 @@
     left: 100;
     font-size: 3rem;
     font-weight: bold;
+}
+
+@media only screen and (max-width: 480px) {
+    .prof-img {
+        height: 10rem;
+        width: 10rem;
+        object-position: 0 22%;
+        border-radius: 200px;
+        margin: 10px 0 10px 10px;
+    }
+}
+
+@media only screen and (min-width: 481px) and (max-width: 767px) {
+    .prof-img {
+        height: 20rem;
+        width: 20rem;
+        object-position: 0 22%;
+        border-radius: 200px;
+        margin: 10px 0 10px 10px;
+    }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 1279px) {
+    .prof-img {
+        height: 10rem;
+        width: 100rem;
+        object-position: 0 22%;
+        border-radius: 200px;
+        margin: 10px 0 10px 10px;
+    }
 }

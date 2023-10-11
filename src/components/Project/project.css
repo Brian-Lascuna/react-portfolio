@@ -1,4 +1,3 @@
-.project-card {
-    background-image: url("../../assets/nutriplanner1.png");
-    background-size: cover;
+.project-title {
+    -webkit-text-stroke: 2px black;
 }
