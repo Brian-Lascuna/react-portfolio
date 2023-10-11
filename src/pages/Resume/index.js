@@ -4,10 +4,7 @@ import { Page, Document, pdfjs } from "react-pdf";
 import pdfFile from "../../assets/Brian_Lascuna_Resume.pdf";
 import './resume.css';
 
-pdfjs.GlobalWorkerOptions.workerSrc = new URL(
-    'pdfjs-dist/build/pdf.worker.min.js',
-    import.meta.url,
-  ).toString();
+pdfjs.GlobalWorkerOptions.workerSrc = `//cdnjs.cloudflare.com/ajax/libs/pdf.js/${pdfjs.version}/pdf.worker.min.js`;
 
 const Resume = () => {
     const [numPages, setNumPages] = useState(null);
