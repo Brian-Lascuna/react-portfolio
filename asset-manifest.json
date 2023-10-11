@@ -1,19 +1,23 @@
 {
   "files": {
-    "main.css": "/react-portfolio/static/css/main.422236eb.css",
-    "main.js": "/react-portfolio/static/js/main.bf9c530f.js",
+    "main.css": "/react-portfolio/static/css/main.f71ac2a5.css",
+    "main.js": "/react-portfolio/static/js/main.176f9f68.js",
     "static/js/787.1ed0c42c.chunk.js": "/react-portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/nutriplanner1.png": "/react-portfolio/static/media/nutriplanner1.648dae7556ae3e9ece83.png",
     "static/media/pdf.worker.min.js": "/react-portfolio/static/media/pdf.worker.min.c1521074002a72c9294d.js",
+    "static/media/fashionForecast.png": "/react-portfolio/static/media/fashionForecast.2ca9597560a5c0549e53.png",
     "static/media/canvasprofEnhanced.png": "/react-portfolio/static/media/canvasprofEnhanced.bf94c5f86b4fa81301c8.png",
     "static/media/ucdavis_cert.png": "/react-portfolio/static/media/ucdavis_cert.0c1e2a0a882af4c90521.png",
+    "static/media/Brian_Lascuna_Resume.pdf": "/react-portfolio/static/media/Brian_Lascuna_Resume.8b8b327ab2009138feb3.pdf",
     "static/media/full-stack-developer.png": "/react-portfolio/static/media/full-stack-developer.42b13435a23046689320.png",
+    "static/media/notetaker.png": "/react-portfolio/static/media/notetaker.b5c3dcaaa3e4270084a5.png",
     "index.html": "/react-portfolio/index.html",
-    "main.422236eb.css.map": "/react-portfolio/static/css/main.422236eb.css.map",
-    "main.bf9c530f.js.map": "/react-portfolio/static/js/main.bf9c530f.js.map",
+    "main.f71ac2a5.css.map": "/react-portfolio/static/css/main.f71ac2a5.css.map",
+    "main.176f9f68.js.map": "/react-portfolio/static/js/main.176f9f68.js.map",
     "787.1ed0c42c.chunk.js.map": "/react-portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.422236eb.css",
-    "static/js/main.bf9c530f.js"
+    "static/css/main.f71ac2a5.css",
+    "static/js/main.176f9f68.js"
   ]
 }
